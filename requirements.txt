@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 pymupdf
-transformers
 torch
+transformers==4.38.2
+huggingface_hub==0.20.3
